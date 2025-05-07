@@ -4,8 +4,10 @@ A Windows Forms application for calculating and generating water bills for diffe
 
 ## Screenshots
 
-![Application Interface](images/906F7D22-C347-4452-AACB-A8B438601851.png)
-![PDF Export Sample](images/97C87917-51D2-4149-B72D-10FC75ABA4C5.png)
+![Application Interface](![image](https://github.com/user-attachments/assets/892407d6-e4a0-417f-8cac-7c44d92297f4)
+)
+![PDF Export Sample](![image](https://github.com/user-attachments/assets/214066b4-d7ee-499f-bade-6cc79fe3a1da)
+)
 
 ## Features
 
